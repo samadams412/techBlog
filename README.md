@@ -21,7 +21,15 @@
 Install Dependencies
 
 ```terminal
-npm install express sequelize mysql2 dotenv bcrypt express-session express-handlebars connect-session-sequelize
+npm install- 
+express 
+sequelize 
+mysql2 
+bcrypt 
+express-session 
+express-handlebars 
+connect-session-sequelize
+dotenv 
 ```
 
 Open up MySQL shell with mysql -u root -p and then
