@@ -1,6 +1,9 @@
 const Sequelize = require('sequelize');
+
 require('dotenv').config();
+// Create connection to the database, pass in our MySQL info
 let sequelize;
+
 if (process.env.JAWSDB_URL) {
     sequelize = new Sequelize(process.env.JAWSDB_URL);
 } else {
