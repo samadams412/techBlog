@@ -46,7 +46,8 @@ npm run seeds
 npm start
 ```
 
-Once all that is done, navigate to - http://localhost:3001 to begin!
+Once all that is done, navigate to - 
+http://localhost:3001
 
 ## Usage Information
 
